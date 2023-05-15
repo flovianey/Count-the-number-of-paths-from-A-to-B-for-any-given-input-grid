@@ -1,4 +1,4 @@
-Count-the-number-of-paths-from-A-to-B-for-any-given-input-grid
+#Count-the-number-of-paths-from-A-to-B-for-any-given-input-grid
 Python code that can be used to count the number of paths 
 from A to B for any given input grid. the codes calls a 
 function that has the following boilerplate format:
